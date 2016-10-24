@@ -1,0 +1,21 @@
+{
+  "name": "robertdown.net",
+  "authors": [
+    "Robert Down <robertdown@live.com>"
+  ],
+  "description": "FNSA campaign",
+  "main": "",
+  "license": "MIT",
+  "homepage": "robertdown.net",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
